@@ -84,7 +84,7 @@ nav .fa{
     display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 738px) {
     .text-box h1{
         font-size:20px;
     }
@@ -262,7 +262,7 @@ nav .fa{
    .testtimonials-col .fa{
        color:#f44336;
    }
-   @media(max-width:768px){
+   @media(max-width:738px){
     .testtimonials-col img{
         
         margin: 0 15px 0 0px;
@@ -285,7 +285,7 @@ nav .fa{
        margin-bottom:40px ;
        padding: 0;
    }
-   @media (max-width: 768px) {
+   @media (max-width: 738px) {
        .cta h1{
            font-size:24px;
        }
