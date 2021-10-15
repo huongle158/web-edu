@@ -84,7 +84,7 @@ nav .fa{
     display: none;
 }
 
-@media (max-width: 738px) {
+@media (max-width: 700px) {
     .text-box h1{
         font-size:20px;
     }
@@ -99,10 +99,10 @@ nav .fa{
         top: 0; right: -200px;
         text-align: left;
         z-index: 2;
-/*         -webkit-transition: margin-top 10s ease-out ;  */
-/*        -moz-transition: margin-top 10s ease-out;
+      -webkit-transition: margin-top 10s ease-out ;  
+       -moz-transition: margin-top 10s ease-out;
         -o-transition: margin-top 10s ease-out;
-        -ms-transition: margin-top 10s ease-out; */
+        -ms-transition: margin-top 10s ease-out; 
     } 
     nav .fa{
         display: block;
@@ -262,7 +262,7 @@ nav .fa{
    .testtimonials-col .fa{
        color:#f44336;
    }
-   @media(max-width:738px){
+   @media(max-width:700px){
     .testtimonials-col img{
         
         margin: 0 15px 0 0px;
@@ -285,7 +285,7 @@ nav .fa{
        margin-bottom:40px ;
        padding: 0;
    }
-   @media (max-width: 738px) {
+   @media (max-width: 700px) {
        .cta h1{
            font-size:24px;
        }
